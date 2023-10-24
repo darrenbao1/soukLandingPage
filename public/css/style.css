@@ -246,6 +246,7 @@ header .intro-text {
 }
 /* Features Section */
 #features {
+	padding: 100px 0;
 	background: #f6f6f6;
 }
 #features i.fa {
@@ -451,12 +452,14 @@ header .intro-text {
 /* Team Section */
 #team {
 	padding: 100px 0;
+	background: #f6f6f6;
 }
 #team h4 {
 	margin: 5px 0;
 }
 #team .team-img {
 	width: 240px;
+	border-radius: 50%;
 }
 #team .thumbnail {
 	background: transparent;
