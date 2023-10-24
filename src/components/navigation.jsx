@@ -19,7 +19,7 @@ export const Navigation = (props) => {
 					<a className="navbar-brand page-scroll" href="#page-top">
 						<img
 							src="img/logo/OldSoukLogo.png"
-							style={{ width: "50%", marginTop: "-15px" }}></img>
+							style={{ width: "50%", marginTop: "-15px" }} alt=""></img>
 					</a>{" "}
 				</div>
 
