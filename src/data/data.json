@@ -163,7 +163,7 @@
 	},
 	"Features": [
 		{
-			"icon": "fa fa-comments-o",
+			"image": "img/logo/Cairo_logo.png",
 			"title": "CASM & STARKs",
 			"text": "Scalable smart contracts with security, privacy, efficiency, natively designed for interoperability and composability."
 		},
@@ -173,12 +173,12 @@
 			"text": "Souk uses Starknet L2 to scale the application layer, and introduces additional layers to deliver customized functionalities like privacy."
 		},
 		{
-			"icon": "fa fa-road",
+			"image": "img/logo/bridging_logo.png",
 			"title": "Trustless Bridging with Storage Proofs",
 			"text": "Storage proofs verify states of other chains without the need for trust, creating the future of cross-chain communication without compromising on security and efficiency."
 		},
 		{
-			"icon": "fa fa-magic",
+			"image": "img/logo/ERC2114_logo.png",
 			"title": "ERC-2114 & Semi-Fungible Tokens",
 			"text": "ERC-2114 provides Souk Apps a highly flexible and versatile framework to represent and tokenize digital assets."
 		}

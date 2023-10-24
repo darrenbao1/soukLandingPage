@@ -11,16 +11,9 @@ export const Features = (props) => {
 					{props.data
 						? props.data.map((d, i) => (
 								<div key={`${d.title}-${i}`} className="col-xs-6 col-md-3">
-									{" "}
-									{/* check if index 0, will use Cairo_logo.png instead. */}
-									{/* check if index is 3, will use ERC211_logo.png instead */}
-									{i != 0 && i != 3 ? (
-										<i className={d.icon}></i>
-									) : i == 0 ? (
-										<img src="img/logo/Cairo_logo.png" alt="" />
-									) : (
-										<img src="img/logo/ERC2114_logo.png" alt="" />
-									)}
+									{/* if icon exist use it, else use image */}
+									{d.icon && <i className={d.icon}></i>}
+									{d.image && <img src={d.image} alt="" />}
 									<h3>{d.title}</h3>
 									<p>{d.text}</p>
 								</div>
