@@ -97,36 +97,13 @@
 			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
 		}
 	],
-	"Testimonials": [
+	"Apps": [
 		{
-			"img": "img/testimonials/01.jpg",
-			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-			"name": "John Doe"
-		},
-		{
-			"img": "img/testimonials/02.jpg",
-			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-			"name": "Johnathan Doe"
-		},
-		{
-			"img": "img/testimonials/03.jpg",
-			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-			"name": "John Doe"
-		},
-		{
-			"img": "img/testimonials/04.jpg",
-			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-			"name": "Johnathan Doe"
-		},
-		{
-			"img": "img/testimonials/05.jpg",
-			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-			"name": "John Doe"
-		},
-		{
-			"img": "img/testimonials/06.jpg",
-			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-			"name": "Johnathan Doe"
+			"img": "img/logo/starkpilled_logo.png",
+			"text": "Pioneering the use of ERC-2114, Starkpilled is a PFP collection that celebrates the StarkNet ecosystem. Avatars (Pills) are able to equip, unequip traits, and engage in the world of on-chain reputation by 'faming' or 'defaming' other Pills.",
+			"name": "Starkpilled",
+			"category": "Digital Avatar Collection",
+			"link": "https://starkpill.clinic/"
 		}
 	],
 	"Team": [

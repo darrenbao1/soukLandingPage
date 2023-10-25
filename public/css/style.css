@@ -409,12 +409,12 @@ header .intro-text {
 .hover-bg:hover .hover-text {
 	opacity: 1;
 }
-/* Testimonials Section */
-#testimonials {
+/* apps Section */
+#apps {
 	padding: 100px 0;
 	background: #f6f6f6;
 }
-#testimonials i {
+#apps i {
 	color: #e6e6e6;
 	font-size: 32px;
 	margin-bottom: 20px;
@@ -422,6 +422,13 @@ header .intro-text {
 .testimonial {
 	position: relative;
 	padding: 20px;
+	background-color: #0a0e31;
+	border-radius: 8px;
+	color: #fff;
+}
+.testimonial:hover {
+	background-color: #1f386e;
+	cursor: pointer;
 }
 .testimonial-image {
 	float: left;
@@ -430,8 +437,8 @@ header .intro-text {
 .testimonial-image,
 .testimonial-image img {
 	display: block;
-	width: 64px;
-	height: 64px;
+	width: 140px;
+	height: 140px;
 	border-radius: 50%;
 }
 .testimonial-content {
@@ -447,7 +454,7 @@ header .intro-text {
 	margin-top: 10px;
 	font-size: 15px;
 	font-weight: 600;
-	color: #666;
+	color: #fff;
 }
 /* Team Section */
 #team {
